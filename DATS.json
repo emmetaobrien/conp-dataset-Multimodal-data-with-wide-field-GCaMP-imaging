@@ -1,0 +1,74 @@
+{
+    "title": "Multimodal data with wide-field GCaMP imaging",
+    "creators": [
+        {
+            "name": "Annika Wevers"
+        },
+        {
+            "name": "Carlos Doebeli"
+        },
+        {
+            "name": "UBC Brain Circuits Cluster"
+        },
+        {
+            "name": "Jeffrey LeDue"
+        },
+        {
+            "name": "Timothy H. Murphy (Murphy Lab)"
+        },
+        {
+            "name": "Dongsheng Xiao"
+        }
+    ],
+    "description": "A backup of UBC Brain Circuits research cluster data on FRDR",
+    "version": "2020-10-15T07:41:51.403200",
+    "licenses": [
+        {
+            "name": "None"
+        }
+    ],
+    "keywords": [
+        {
+            "value": "canadian-open-neuroscience-platform"
+        }
+    ],
+    "distributions": [
+        {
+            "size": 106.7,
+            "unit": {
+                "value": "GB"
+            },
+            "access": {
+                "landingPage": "https://osf.io/m7nz2/",
+                "authorizations": [
+                    {
+                        "value": "public"
+                    }
+                ]
+            }
+        }
+    ],
+    "extraProperties": [
+        {
+            "category": "logo",
+            "values": [
+                {
+                    "value": "https://osf.io/static/img/institutions/shields/cos-shield.png"
+                }
+            ]
+        },
+        {
+            "category": "files",
+            "values": [
+                {
+                    "value": "721"
+                }
+            ]
+        }
+    ],
+    "types": [
+        {
+            "value": "MRI"
+        }
+    ]
+}
