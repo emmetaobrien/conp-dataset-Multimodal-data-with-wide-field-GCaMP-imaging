@@ -1,0 +1,96 @@
+{
+    "title": "Multimodal data with wide-field GCaMP imaging",
+    "creators": [
+        {
+            "name": "Annika Wevers"
+        },
+        {
+            "name": "Carlos Doebeli"
+        },
+        {
+            "name": "UBC Brain Circuits Cluster"
+        },
+        {
+            "name": "Jeffrey LeDue"
+        },
+        {
+            "name": "Timothy H. Murphy (Murphy Lab)"
+        },
+        {
+            "name": "Dongsheng Xiao"
+        }
+    ],
+    "description": "A backup of UBC Brain Circuits research cluster data on FRDR",
+    "version": "2021-03-26T22:26:26.667927",
+    "licenses": [
+        {
+            "name": "None"
+        }
+    ],
+    "dates": [
+        {
+            "date": "2020-09-02 17:34:31",
+            "type": {
+                "value": "Date Created"
+            }
+        },
+        {
+            "date": "2021-03-26 22:26:26",
+            "type": {
+                "value": "Date Modified"
+            }
+        }
+    ],
+    "keywords": [
+        {
+            "value": "canadian-open-neuroscience-platform"
+        }
+    ],
+    "distributions": [
+        {
+            "size": 106.7,
+            "unit": {
+                "value": "GB"
+            },
+            "access": {
+                "landingPage": "https://osf.io/m7nz2/",
+                "authorizations": [
+                    {
+                        "value": "public"
+                    }
+                ]
+            }
+        }
+    ],
+    "extraProperties": [
+        {
+            "category": "logo",
+            "values": [
+                {
+                    "value": "https://osf.io/static/img/institutions/shields/cos-shield.png"
+                }
+            ]
+        },
+        {
+            "category": "origin_institution",
+            "values": [
+                {
+                    "value": "University of British Columbia"
+                }
+            ]
+        },
+        {
+            "category": "files",
+            "values": [
+                {
+                    "value": "721"
+                }
+            ]
+        }
+    ],
+    "types": [
+        {
+            "value": "MRI"
+        }
+    ]
+}
